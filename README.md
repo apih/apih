@@ -1,5 +1,5 @@
 ### 🧔 Mohd Hafizuddin M Marzuki
-![visitors](https://visitor-badge.glitch.me/badge?page_id=apih.apih&left_color=black&right_color=blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapih&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%9A%A1hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - 💬 PHP, JavaScript, SQL, Bash Script, HTML, CSS, SASS
 - ⚡ Laravel, Alpine.js, Bootstrap
